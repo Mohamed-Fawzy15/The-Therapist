@@ -1,4 +1,4 @@
-# the_teraphist
+# The Therapist
 
 A new Flutter project.
 
